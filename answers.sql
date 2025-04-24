@@ -11,7 +11,7 @@
     -- Customer Details Table 
     CREATE TABLE CustomerDetails (
         OrderID INT PRIMARY KEY,
-        CustomerName VARCHAR(50),
+        CustomerName VARCHAR(50)
     );
 
     -- Order Details Table
