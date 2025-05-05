@@ -40,6 +40,8 @@ Task:
 - In the table above, the **Products column** contains multiple values, which violates **1NF**.
 - **Write an SQL query** to transform this table into **1NF**, ensuring that each row represents a single product for an order
 
+
+
 --- 
 
 ### Question 2 Achieving 2NF (Second Normal Form) 🧩
